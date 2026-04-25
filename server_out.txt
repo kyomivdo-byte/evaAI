@@ -1,0 +1,317 @@
+◇ injected env (5) from .env // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+◇ injected env (0) from .env // tip: ⌘ multiple files { path: ['.env.local', '.env'] }
+[init] 0 bunq request IDs pre-loaded from DB
+Eva AI op http://localhost:3000
+[bunq:main] Opening session...
+[bunq:main] Ready — userId=3628534 accountId=3620286 IBAN=NL58BUNQ2106239076
+[bunq:cp] Opening session...
+[bunq:cp] Ready — userId=3628535 accountId=3620287 IBAN=NL66BUNQ2106243588
+[bunq] Both accounts ready.
+[auto] New round: ah → ns → crypto → zilvkruis → unknown → coolblue → thuisbezorgd → phone → netflix → action → spotify → scam → lottery → energy → ahigh → pharmacy → gemeentebel → bunqpay → bol → medium → donation → ov → anwb → lidl → ziggo → jumbo → hema → picnic → kpn
+[auto] ah — €34.5 to Albert Heijn
+[pipeline] Albert Heijn €34.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ns — €19.8 to NS Nederlandse Spoorwegen
+[pipeline] NS Nederlandse Spoorwegen €19.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] crypto — €750 to BitProfit Release BV
+[pipeline] BitProfit Release BV €750 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=90 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "BitProfit Release BV" (account stays open)
+[auto] zilvkruis — €148.25 to Zilveren Kruis Zorgverzekering
+[pipeline] Zilveren Kruis Zorgverzekering €148.25 → score=75 status=GUARDIAN_ALERT (mini=75 reasoning=75 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Zilveren Kruis Zorgverzekering" (account stays open)
+[auto] unknown — €290 to Administratiekantoor Peters
+[pipeline] Administratiekantoor Peters €290 → score=75 status=GUARDIAN_ALERT (mini=75 reasoning=75 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Administratiekantoor Peters" (account stays open)
+[auto] coolblue — €149 to Coolblue
+[pipeline] Coolblue €149 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] thuisbezorgd — €28.5 to Thuisbezorgd.nl
+[pipeline] Thuisbezorgd.nl €28.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] phone — €1200 to ING Bank Security Dept
+[pipeline] ING Bank Security Dept €1200 → score=95 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=95 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "ING Bank Security Dept" (account stays open)
+[auto] netflix — €9.99 to Netflix
+[pipeline] Netflix €9.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] action — €22.75 to Action
+[pipeline] Action €22.75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] spotify — €10.99 to Spotify
+[pipeline] Spotify €10.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] scam — €340 to TechSupport BV
+[pipeline] TechSupport BV €340 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "TechSupport BV" (account stays open)
+[auto] lottery — €49.95 to EuroLottery Prize Center
+[pipeline] EuroLottery Prize Center €49.95 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=85 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "EuroLottery Prize Center" (account stays open)
+[auto] energy — €89.5 to Vattenfall Energy
+[pipeline] Vattenfall Energy €89.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ahigh — €5000 to Albert Heijn
+[pipeline] Albert Heijn €5000 → score=90 status=GUARDIAN_ALERT (mini=0 reasoning=0 keyFloor=- amtFloor=90)
+[luna] HIGH RISK — payment auto-rejected for "Albert Heijn" (account stays open)
+[auto] pharmacy — €15.8 to Apotheek De Linde
+[pipeline] Apotheek De Linde €15.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] gemeentebel — €71 to Gemeente Amsterdam
+[pipeline] Gemeente Amsterdam €71 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] bunqpay — €5 to bunq
+[pipeline] bunq €5 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "bunq" (account stays open)
+[auto] bol — €27.99 to Bol.com
+[pipeline] Bol.com €27.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] medium — €160 to Marktplaats Particulier
+[pipeline] Marktplaats Particulier €160 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Marktplaats Particulier" (account stays open)
+[auto] donation — €75 to Stichting Dierenlot
+[pipeline] Stichting Dierenlot €75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[approval] REJECTED auto_donation_1777111793351 by "User"
+[auto] ov — €24 to OV-chipkaart / Translink
+[pipeline] OV-chipkaart / Translink €24 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] anwb — €15 to ANWB
+[pipeline] ANWB €15 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lidl — €41.2 to Lidl Nederland
+[pipeline] Lidl Nederland €41.2 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ziggo — €49.95 to Ziggo
+[pipeline] Ziggo €49.95 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] jumbo — €52.3 to Jumbo Supermarkt
+[pipeline] Jumbo Supermarkt €52.3 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] hema — €18.45 to HEMA
+[pipeline] HEMA €18.45 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] picnic — €63.4 to Picnic
+[pipeline] Picnic €63.4 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] kpn — €32.5 to KPN Mobiel
+[pipeline] KPN Mobiel €32.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] New round: spotify → ziggo → ov → unknown → scam → hema → netflix → kpn → phone → crypto → action → energy → coolblue → ahigh → thuisbezorgd → lottery → ns → bunqpay → jumbo → anwb → picnic → gemeentebel → medium → ah → pharmacy → bol → lidl → zilvkruis → donation
+[auto] spotify — €10.99 to Spotify
+[pipeline] Spotify €10.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ziggo — €49.95 to Ziggo
+[pipeline] Ziggo €49.95 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ov — €24 to OV-chipkaart / Translink
+[pipeline] OV-chipkaart / Translink €24 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] unknown — €290 to Administratiekantoor Peters
+[pipeline] Administratiekantoor Peters €290 → score=75 status=GUARDIAN_ALERT (mini=75 reasoning=75 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Administratiekantoor Peters" (account stays open)
+[auto] scam — €340 to TechSupport BV
+[pipeline] TechSupport BV €340 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "TechSupport BV" (account stays open)
+[auto] hema — €18.45 to HEMA
+[pipeline] HEMA €18.45 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] netflix — €9.99 to Netflix
+[pipeline] Netflix €9.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] kpn — €32.5 to KPN Mobiel
+[pipeline] KPN Mobiel €32.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] phone — €1200 to ING Bank Security Dept
+[pipeline] ING Bank Security Dept €1200 → score=95 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=95 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "ING Bank Security Dept" (account stays open)
+[auto] crypto — €750 to BitProfit Release BV
+[pipeline] BitProfit Release BV €750 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=90 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "BitProfit Release BV" (account stays open)
+[auto] action — €22.75 to Action
+[pipeline] Action €22.75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] energy — €89.5 to Vattenfall Energy
+[pipeline] Vattenfall Energy €89.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] coolblue — €149 to Coolblue
+[pipeline] Coolblue €149 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ahigh — €5000 to Albert Heijn
+[pipeline] Albert Heijn €5000 → score=90 status=GUARDIAN_ALERT (mini=50 reasoning=50 keyFloor=- amtFloor=90)
+[luna] HIGH RISK — payment auto-rejected for "Albert Heijn" (account stays open)
+[auto] thuisbezorgd — €28.5 to Thuisbezorgd.nl
+[pipeline] Thuisbezorgd.nl €28.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lottery — €49.95 to EuroLottery Prize Center
+[pipeline] EuroLottery Prize Center €49.95 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=85 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "EuroLottery Prize Center" (account stays open)
+[auto] ns — €19.8 to NS Nederlandse Spoorwegen
+[pipeline] NS Nederlandse Spoorwegen €19.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] bunqpay — €5 to bunq
+[pipeline] bunq €5 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "bunq" (account stays open)
+[auto] jumbo — €52.3 to Jumbo Supermarkt
+[pipeline] Jumbo Supermarkt €52.3 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] anwb — €15 to ANWB
+[pipeline] ANWB €15 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] picnic — €63.4 to Picnic
+[pipeline] Picnic €63.4 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] gemeentebel — €71 to Gemeente Amsterdam
+[pipeline] Gemeente Amsterdam €71 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] medium — €160 to Marktplaats Particulier
+[pipeline] Marktplaats Particulier €160 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Marktplaats Particulier" (account stays open)
+[auto] ah — €34.5 to Albert Heijn
+[pipeline] Albert Heijn €34.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] pharmacy — €15.8 to Apotheek De Linde
+[pipeline] Apotheek De Linde €15.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] bol — €27.99 to Bol.com
+[pipeline] Bol.com €27.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lidl — €41.2 to Lidl Nederland
+[pipeline] Lidl Nederland €41.2 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] zilvkruis — €148.25 to Zilveren Kruis Zorgverzekering
+[pipeline] Zilveren Kruis Zorgverzekering €148.25 → score=75 status=GUARDIAN_ALERT (mini=75 reasoning=75 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Zilveren Kruis Zorgverzekering" (account stays open)
+[auto] donation — €75 to Stichting Dierenlot
+[pipeline] Stichting Dierenlot €75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] New round: donation → zilvkruis → bunqpay → phone → action → ns → jumbo → hema → scam → crypto → picnic → spotify → ah → gemeentebel → lidl → netflix → thuisbezorgd → bol → kpn → anwb → ahigh → medium → pharmacy → lottery → ov → coolblue → ziggo → energy → unknown
+[auto] donation — €75 to Stichting Dierenlot
+[pipeline] Stichting Dierenlot €75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] zilvkruis — €148.25 to Zilveren Kruis Zorgverzekering
+[pipeline] Zilveren Kruis Zorgverzekering €148.25 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Zilveren Kruis Zorgverzekering" (account stays open)
+[auto] bunqpay — €5 to bunq
+[bunq] Balance after payment: €8512.20
+[approval] APPROVED auto_donation_1777112743670 by "User" — balance now €8512.20
+[pipeline] bunq €5 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "bunq" (account stays open)
+[auto] phone — €1200 to ING Bank Security Dept
+[pipeline] ING Bank Security Dept €1200 → score=95 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=95 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "ING Bank Security Dept" (account stays open)
+[auto] action — €22.75 to Action
+[pipeline] Action €22.75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] ns — €19.8 to NS Nederlandse Spoorwegen
+[pipeline] NS Nederlandse Spoorwegen €19.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] jumbo — €52.3 to Jumbo Supermarkt
+[pipeline] Jumbo Supermarkt €52.3 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] hema — €18.45 to HEMA
+[pipeline] HEMA €18.45 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] scam — €340 to TechSupport BV
+[pipeline] TechSupport BV €340 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "TechSupport BV" (account stays open)
+[auto] crypto — €750 to BitProfit Release BV
+[pipeline] BitProfit Release BV €750 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=90 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "BitProfit Release BV" (account stays open)
+[auto] picnic — €63.4 to Picnic
+[pipeline] Picnic €63.4 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] spotify — €10.99 to Spotify
+[pipeline] Spotify €10.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ah — €34.5 to Albert Heijn
+[pipeline] Albert Heijn €34.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] gemeentebel — €71 to Gemeente Amsterdam
+[pipeline] Gemeente Amsterdam €71 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lidl — €41.2 to Lidl Nederland
+[pipeline] Lidl Nederland €41.2 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] netflix — €9.99 to Netflix
+[pipeline] Netflix €9.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] thuisbezorgd — €28.5 to Thuisbezorgd.nl
+[pipeline] Thuisbezorgd.nl €28.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] bol — €27.99 to Bol.com
+[pipeline] Bol.com €27.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] kpn — €32.5 to KPN Mobiel
+[pipeline] KPN Mobiel €32.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] anwb — €15 to ANWB
+[pipeline] ANWB €15 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ahigh — €5000 to Albert Heijn
+[pipeline] Albert Heijn €5000 → score=90 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=90)
+[luna] HIGH RISK — payment auto-rejected for "Albert Heijn" (account stays open)
+[auto] medium — €160 to Marktplaats Particulier
+[pipeline] Marktplaats Particulier €160 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Marktplaats Particulier" (account stays open)
+[auto] pharmacy — €15.8 to Apotheek De Linde
+[pipeline] Apotheek De Linde €15.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lottery — €49.95 to EuroLottery Prize Center
+[pipeline] EuroLottery Prize Center €49.95 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=85 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "EuroLottery Prize Center" (account stays open)
+[auto] ov — €24 to OV-chipkaart / Translink
+[pipeline] OV-chipkaart / Translink €24 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] coolblue — €149 to Coolblue
+[pipeline] Coolblue €149 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ziggo — €49.95 to Ziggo
+[pipeline] Ziggo €49.95 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] energy — €89.5 to Vattenfall Energy
+[pipeline] Vattenfall Energy €89.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] unknown — €290 to Administratiekantoor Peters
+[pipeline] Administratiekantoor Peters €290 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Administratiekantoor Peters" (account stays open)
+[auto] New round: crypto → jumbo → ziggo → lidl → bunqpay → hema → zilvkruis → energy → ah → ahigh → donation → scam → ns → ov → anwb → medium → pharmacy → phone → coolblue → kpn → gemeentebel → unknown → bol → spotify → action → picnic → netflix → thuisbezorgd → lottery
+[auto] crypto — €750 to BitProfit Release BV
+[pipeline] BitProfit Release BV €750 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=90 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "BitProfit Release BV" (account stays open)
+[auto] jumbo — €52.3 to Jumbo Supermarkt
+[pipeline] Jumbo Supermarkt €52.3 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ziggo — €49.95 to Ziggo
+[pipeline] Ziggo €49.95 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lidl — €41.2 to Lidl Nederland
+[pipeline] Lidl Nederland €41.2 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] bunqpay — €5 to bunq
+[pipeline] bunq €5 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "bunq" (account stays open)
+[auto] hema — €18.45 to HEMA
+[pipeline] HEMA €18.45 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] zilvkruis — €148.25 to Zilveren Kruis Zorgverzekering
+[pipeline] Zilveren Kruis Zorgverzekering €148.25 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Zilveren Kruis Zorgverzekering" (account stays open)
+[auto] energy — €89.5 to Vattenfall Energy
+[pipeline] Vattenfall Energy €89.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ah — €34.5 to Albert Heijn
+[pipeline] Albert Heijn €34.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ahigh — €5000 to Albert Heijn
+[pipeline] Albert Heijn €5000 → score=90 status=GUARDIAN_ALERT (mini=0 reasoning=0 keyFloor=- amtFloor=90)
+[luna] HIGH RISK — payment auto-rejected for "Albert Heijn" (account stays open)
+[auto] donation — €75 to Stichting Dierenlot
+[pipeline] Stichting Dierenlot €75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] scam — €340 to TechSupport BV
+[pipeline] TechSupport BV €340 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "TechSupport BV" (account stays open)
+[auto] ns — €19.8 to NS Nederlandse Spoorwegen
+[pipeline] NS Nederlandse Spoorwegen €19.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ov — €24 to OV-chipkaart / Translink
+[pipeline] OV-chipkaart / Translink €24 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] anwb — €15 to ANWB
+[pipeline] ANWB €15 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] medium — €160 to Marktplaats Particulier
+[pipeline] Marktplaats Particulier €160 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Marktplaats Particulier" (account stays open)
+[auto] pharmacy — €15.8 to Apotheek De Linde
+[pipeline] Apotheek De Linde €15.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] phone — €1200 to ING Bank Security Dept
+[pipeline] ING Bank Security Dept €1200 → score=95 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=95 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "ING Bank Security Dept" (account stays open)
+[auto] coolblue — €149 to Coolblue
+[pipeline] Coolblue €149 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] kpn — €32.5 to KPN Mobiel
+[pipeline] KPN Mobiel €32.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] gemeentebel — €71 to Gemeente Amsterdam
+[pipeline] Gemeente Amsterdam €71 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] unknown — €290 to Administratiekantoor Peters
+[pipeline] Administratiekantoor Peters €290 → score=75 status=GUARDIAN_ALERT (mini=75 reasoning=75 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Administratiekantoor Peters" (account stays open)
+[auto] bol — €27.99 to Bol.com
+[pipeline] Bol.com €27.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] spotify — €10.99 to Spotify
+[pipeline] Spotify €10.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] action — €22.75 to Action
+[pipeline] Action €22.75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] picnic — €63.4 to Picnic
+[pipeline] Picnic €63.4 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] netflix — €9.99 to Netflix
+[pipeline] Netflix €9.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] thuisbezorgd — €28.5 to Thuisbezorgd.nl
+[pipeline] Thuisbezorgd.nl €28.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lottery — €49.95 to EuroLottery Prize Center
+[pipeline] EuroLottery Prize Center €49.95 → score=90 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=85 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "EuroLottery Prize Center" (account stays open)
+[auto] New round: jumbo → ahigh → spotify → lidl → medium → ov → picnic → netflix → action → bunqpay → thuisbezorgd → pharmacy → phone → coolblue → scam → donation → unknown → ah → ns → gemeentebel → lottery → kpn → anwb → zilvkruis → bol → energy → crypto → ziggo → hema
+[auto] jumbo — €52.3 to Jumbo Supermarkt
+[pipeline] Jumbo Supermarkt €52.3 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] ahigh — €5000 to Albert Heijn
+[pipeline] Albert Heijn €5000 → score=90 status=GUARDIAN_ALERT (mini=0 reasoning=0 keyFloor=- amtFloor=90)
+[luna] HIGH RISK — payment auto-rejected for "Albert Heijn" (account stays open)
+[auto] spotify — €10.99 to Spotify
+[pipeline] Spotify €10.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] lidl — €41.2 to Lidl Nederland
+[pipeline] Lidl Nederland €41.2 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] medium — €160 to Marktplaats Particulier
+[pipeline] Marktplaats Particulier €160 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "Marktplaats Particulier" (account stays open)
+[auto] ov — €24 to OV-chipkaart / Translink
+[pipeline] OV-chipkaart / Translink €24 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] picnic — €63.4 to Picnic
+[pipeline] Picnic €63.4 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] netflix — €9.99 to Netflix
+[pipeline] Netflix €9.99 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] action — €22.75 to Action
+[pipeline] Action €22.75 → score=50 status=SOFT_WARNING (mini=50 reasoning=50 keyFloor=- amtFloor=-)
+[auto] bunqpay — €5 to bunq
+[pipeline] bunq €5 → score=85 status=GUARDIAN_ALERT (mini=85 reasoning=85 keyFloor=- amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "bunq" (account stays open)
+[auto] thuisbezorgd — €28.5 to Thuisbezorgd.nl
+[pipeline] Thuisbezorgd.nl €28.5 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] pharmacy — €15.8 to Apotheek De Linde
+[pipeline] Apotheek De Linde €15.8 → score=0 status=PAYMENT_SAFE (mini=0 reasoning=0 keyFloor=- amtFloor=-)
+[auto] phone — €1200 to ING Bank Security Dept
+[pipeline] ING Bank Security Dept €1200 → score=95 status=GUARDIAN_ALERT (mini=90 reasoning=90 keyFloor=95 amtFloor=-)
+[luna] HIGH RISK — payment auto-rejected for "ING Bank Security Dept" (account stays open)
+[auto] coolblue — €149 to Coolblue

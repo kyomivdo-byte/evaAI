@@ -1,0 +1,49 @@
+◇ injected env (5) from .env // tip: ⌘ enable debugging { debug: true }
+◇ injected env (0) from .env // tip: ⌘ override existing { override: true }
+◇ injected env (0) from .env // tip: ⌘ suppress logs { quiet: true }
+[init] 0 bunq request IDs pre-loaded from DB
+Eva AI op http://localhost:3000
+[bunq:main] Opening session...
+[bunq:main] Ready — userId=3628534 accountId=3620286 IBAN=NL58BUNQ2106239076
+[bunq:cp] Opening session...
+[bunq:cp] Ready — userId=3628535 accountId=3620287 IBAN=NL66BUNQ2106243588
+[bunq] Both accounts ready.
+[auto] New round: ah → jumbo → anwb → pharmacy → kpn → picnic → ns → lottery → spotify → bol → action → unknown → ov → gemeentebel → phone → zilvkruis → hema → ziggo → thuisbezorgd → netflix → energy → lidl → bunqpay → crypto → donation → medium → coolblue → ahigh → scam
+[auto] ah — €34.5 to Albert Heijn
+[auto] jumbo — €52.3 to Jumbo Supermarkt
+[auto] anwb — €15 to ANWB
+[auto] pharmacy — €15.8 to Apotheek De Linde
+[auto] kpn — €32.5 to KPN Mobiel
+[bunq] Balance after payment: €8682.20
+[approval] APPROVED auto_kpn_1777099317467 by "User" — balance now €8682.20
+[auto] picnic — €63.4 to Picnic
+[auto] ns — €19.8 to NS Nederlandse Spoorwegen
+[auto] lottery — €49.95 to EuroLottery Prize Center
+[luna] HIGH RISK — payment auto-rejected for "EuroLottery Prize Center" (account stays open)
+[auto] spotify — €10.99 to Spotify
+[auto] bol — €27.99 to Bol.com
+[auto] action — €22.75 to Action
+[auto] unknown — €450 to Quick Transfer Services
+[luna] HIGH RISK — payment auto-rejected for "Quick Transfer Services" (account stays open)
+[auto] ov — €24 to OV-chipkaart / Translink
+[bunq] Balance after payment: €8658.20
+[approval] APPROVED auto_ov_1777099517557 by "User" — balance now €8658.20
+[auto] gemeentebel — €71 to Gemeente Amsterdam
+[bunq] Balance after payment: €8587.20
+[approval] APPROVED auto_gemeentebel_1777099542561 by "User" — balance now €8587.20
+[auto] phone — €1200 to ING Bank Security Dept
+[luna] HIGH RISK — payment auto-rejected for "ING Bank Security Dept" (account stays open)
+[auto] zilvkruis — €148.25 to Zilveren Kruis Zorgverzekering
+[auto] hema — €18.45 to HEMA
+[auto] ziggo — €49.95 to Ziggo
+[auto] thuisbezorgd — €28.5 to Thuisbezorgd.nl
+[approval] REJECTED auto_thuisbezorgd_1777099667582 by "User"
+[auto] netflix — €9.99 to Netflix
+[auto] energy — €89.5 to Vattenfall Energy
+[auto] lidl — €41.2 to Lidl Nederland
+[approval] REJECTED auto_netflix_1777099692592 by "User"
+[auto] bunqpay — €5 to bunq
+[auto] crypto — €750 to BitProfit Release BV
+[luna] HIGH RISK — payment auto-rejected for "BitProfit Release BV" (account stays open)
+[auto] donation — €200 to International Relief Fund NL
+[luna] HIGH RISK — payment auto-rejected for "International Relief Fund NL" (account stays open)

@@ -1,0 +1,133 @@
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQJrowDotP5c6Rn3Xo82"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQK1k8XUjfzxj67CbLy2"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQKHcYp3hyB3kX7ab4fj"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQKLrU3r4uLMjBGcPoLJ"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQKRPPGf2P4x8C5FeC5y"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot parse JSON from green-r: {"anomaly_score": 0,
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQKgMemD12sWLrbkecw7"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQKuDFMVJdjsihB7353D"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQKy1Nawtyu5eJWJ1Kn8"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQL6sSp6CMKTLNTYRDwA"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQL9izu8PRuijvxG9fLx"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQLX259iSoTa2o4YeG6n"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQLo9Ex7CVB78KcN8CcD"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQLrDeCTymngahGqNyX8"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQLvKexXTDqS9JdYBnan"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQLzjT4Bo8dZhMGD8JNZ"}
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQM2u1LEpfQaZhfbTa9v"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQM8P9PrkTnPfqAnKQCX"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQMBe1gSkVbnRi21ttwS"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQMD4bKbXLT1BgHr3t6Q"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQMSUWMgGJfJfd9myLns"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQMcBD5JHRjCrV7hnLHu"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot parse JSON from green-r: {"anomaly_score":
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQMj7q818UYUmRgB9f5i"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQMo1s4PDSD3BmJY7sAT"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQMrUK7Sxee8VXdcs7yo"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQN2GdBQXqEpM6xL6Txb"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
+[analyze-image] vision error: 401 {"type":"error","error":{"type":"authentication_error","message":"x-api-key header is required"},"request_id":"req_011CaQNCj8QY68hWpAyQUeoN"}
+[pipeline] reasoning step failed: Cannot read properties of null (reading 'replace')
