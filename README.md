@@ -62,4 +62,4 @@ Open `http://localhost:3000`
 
 ## Built at
 
-bunq Hackathon 2025
+bunq Hackathon 2026
